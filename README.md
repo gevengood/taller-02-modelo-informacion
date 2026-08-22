@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Jorge Steven Doncel Bejarano – Código: 282296 / Usuario GitHub: [gevengood](https://github.com/gevengood) / Correo: [jorgedobe@unisabana.edu.co](mailto:jorgedobe@unisabana.edu.co)
-- David Santiago Buendia Londoño – Código: 306487 / Correo: [davidbulo@unisabana.edu.co](mailto:davidbulo@unisabana.edu.co)
+- David Santiago Buendia Londoño – Código: 306487 / Usuario GitHub: [Santiagoob7](https://github.com/Santiagoob7)) /Correo: [davidbulo@unisabana.edu.co](mailto:davidbulo@unisabana.edu.co)
 
 ## Descripción
 
