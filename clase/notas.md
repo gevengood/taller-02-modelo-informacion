@@ -5,6 +5,7 @@
 
 ## Integrantes presentes
 - Jorge Steven Doncel Bejarano
+- David Santiago Buendia Londoño
 
 ## Actividades realizadas en clase
 
